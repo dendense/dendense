@@ -13,7 +13,7 @@
 
 ### Youtube Music Playlist 🎧
 
-[<img src="/images/github.png" alt="Youtube Music Playlist" width="400" />](https://www.youtube.com/playlist?list=PLV6oQHOzWjQZTG_vwJ2kwAEY8OPDbU8C8)
+[<img src="./images/github.png" alt="Youtube Music Playlist" width="400" />](https://www.youtube.com/playlist?list=PLV6oQHOzWjQZTG_vwJ2kwAEY8OPDbU8C8)
 
 ### Connect with me:
 
