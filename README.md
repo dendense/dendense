@@ -42,11 +42,10 @@
 
 ---
 
-### :zap: Github Stats
-
-<img align="left" alt="DENDENSE's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dendense&show_icons=true&hide_border=true" />
-
----
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="DENDENSE's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dendense&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://dendense.github.io/
 [instagram]: https://www.instagram.com/deny_desu/
