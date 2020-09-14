@@ -1,7 +1,7 @@
 ### Hi there, I'm Deny - aka [DENDENSE][website] 👋
 
-[![Website](https://img.shields.io/website?label=dendense.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dendense.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=dendense.github.io&style=for-the-badge&url=https%3A%2F%2Fdendense.github.io)](https://dendense.github.io/)
+[![Instagram](https://img.shields.io/website?label=dendense.github.io&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/deny_desu)](https://www.instagram.com/deny_desu/)
 
 ## I'm a Teenager, Student, and Front-End Developer !
 
@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/googlemessages.svg" />][email]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -53,3 +53,4 @@
 [website]: https://dendense.github.io/
 [instagram]: https://www.instagram.com/deny_desu/
 [youtube]: https://www.youtube.com/playlist?list=PLV6oQHOzWjQZTG_vwJ2kwAEY8OPDbU8C8
+[email]: mailto:denyfarras@gmail.com
