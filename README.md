@@ -1,7 +1,6 @@
 ### Hi there, I'm Deny - aka [DENDENSE][website] 👋
 
 [![Website](https://img.shields.io/website?label=dendense.github.io&style=for-the-badge&url=https%3A%2F%2Fdendense.github.io)](https://dendense.github.io/)
-[![Instagram](https://img.shields.io/website?label=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/deny_desu)](https://www.instagram.com/deny_desu/)
 
 ## I'm a Teenager, Student, and Front-End Developer !
 
