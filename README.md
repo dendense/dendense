@@ -43,11 +43,12 @@
 <br />
 <br />
 
+---
+
 ## :zap: Github Stats
 
 <img align="left" alt="dendense's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dendense&show_icons=true&hide_border=true" />
 
-<br/>
 <br/>
 
 ---
