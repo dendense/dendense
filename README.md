@@ -4,7 +4,7 @@
 
 ## I'm a Teenager, Student, and Front-End Developer !
 
-- 🔭 I’m currently working on a [Project Polaris][website] & [Himitsu Project][himitsu]!
+- 🔭 I’m currently working on a [Project Polaris][polaris] & [Himitsu Project][himitsu]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -54,3 +54,4 @@
 [youtube]: https://www.youtube.com/playlist?list=PLV6oQHOzWjQZTG_vwJ2kwAEY8OPDbU8C8
 [email]: mailto:denyfarras@gmail.com
 [himitsu]: https://himitsupro.com/
+[polaris]: https://dendense.github.io/pages/project/polaris.html
