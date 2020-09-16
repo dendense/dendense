@@ -53,4 +53,4 @@
 [instagram]: https://www.instagram.com/deny_desu/
 [youtube]: https://www.youtube.com/playlist?list=PLV6oQHOzWjQZTG_vwJ2kwAEY8OPDbU8C8
 [email]: mailto:denyfarras@gmail.com
-[himitsu] https://himitsupro.com/
+[himitsu]: https://himitsupro.com/
