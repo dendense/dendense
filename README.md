@@ -42,9 +42,6 @@
 <br/>
 <br/>
 
-### Github Stats
-[<img align="left" alt="DENDENSE's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dendense&show_icons=true&hide_border=true" />][website]
-
 [website]: https://dendense.github.io/
 [instagram]: https://www.instagram.com/deny_desu/
 [youtube]: https://www.youtube.com/playlist?list=PLV6oQHOzWjQZTG_vwJ2kwAEY8OPDbU8C8
