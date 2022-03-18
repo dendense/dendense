@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on a [Project Polaris][polaris] & [Himitsu Project][himitsu]!
 - 🌱 I’m currently learning everything 🤠
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music & Japanese things
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I Love Music, Photography & Japanese things
 
 ### Youtube Music Playlist 🎧
 
