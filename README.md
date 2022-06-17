@@ -1,6 +1,6 @@
 ### Hi there, I'm Deny Farras Febriyanto - aka [DENDENSE][website] 👋
 
-[![Website](https://img.shields.io/website?label=dendense.github.io&style=for-the-badge&url=https%3A%2F%2Fdendense.com)](https://dendense.com/)
+[![Website](https://img.shields.io/website?label=dendense.com&style=for-the-badge&url=https%3A%2F%2Fdendense.com)](https://dendense.com/)
 
 ## I'm a Teenager, Student, and Front-End Developer !
 
