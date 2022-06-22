@@ -17,7 +17,6 @@
 
 ### Connect with me:
 
-- [Website][website]
 - [Email][email]
 - [Instagram][instagram]
 - [Facebook][facebook]
@@ -32,11 +31,9 @@
 - 🎨 SASS
 - 💎 NodeJS
 
-<br/>
-<br/>
-<br/>
 
-[website]: https://dendense.github.io/
+
+[website]: https://dendense.com/
 [instagram]: https://www.instagram.com/deny_desu/
 [youtube]: https://www.youtube.com/playlist?list=PLV6oQHOzWjQZTG_vwJ2kwAEY8OPDbU8C8
 [email]: mailto:denyfarras@gmail.com
