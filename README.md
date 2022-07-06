@@ -23,9 +23,9 @@
 
 ### Comfortable Working With:
 
-- 📷 Fujifiml X-T100 + Rikenon 50mm F2
+- 📷 Fujifilm XT20 + Fujinon XF 18-55MM F2.8
 - ⚛️ ReactJS / NEXT.JS
-- 🇬 GatsbyJS
+- 🔰 GatsbyJS
 - 📉 GraphQL
 - 🖥️ MySQL
 - 🎨 SASS
