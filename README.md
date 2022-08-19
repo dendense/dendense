@@ -5,7 +5,7 @@
 ## I'm a Teenager, Student, and Front-End Developer!
 
 - 🏅 Indonesian Airforce XLVII | PDE Corp XXXVII
-- 🔭 I’m currently working on a [Gatsby Personal Blog Boilerplate][dendense]!
+- 🔭 I’m currently working on a [Indie Showcase][dendense]!
 - 🌱 I’m currently learning everything 🤠
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -39,4 +39,4 @@
 [email]: mailto:denyfarras@gmail.com
 [himitsu]: https://himitsupro.com/
 [facebook]: https://fb.com/deniyanto123
-[dendense]: https://dendense.com/
+[dendense]: https://github.com/dendense/indie-showcase
