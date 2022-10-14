@@ -23,7 +23,7 @@
 
 ### Comfortable Working With:
 
-- 📷 Fujifilm X-T20 + Fujinon XF 18-55MM F2.8
+- 📷 Fujifilm X-E4 + Fujinon XF 35mm F2
 - ⚛️ ReactJS / NEXT.JS
 - 🔰 GatsbyJS
 - 📉 GraphQL
