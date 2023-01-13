@@ -4,7 +4,7 @@
 
 ## I'm a Teenager, Student, and Front-End Developer!
 
-- 🏅 Indonesian Airforce XLVII | PDE Corp XXXVII
+- 🏅 IAF XLVII | PDE XXXVII
 - 🔭 I’m currently working on a [Indie Showcase][dendense]!
 - 🌱 I’m currently learning everything 🤠
 - 👯 I’m looking to collaborate with other developers
