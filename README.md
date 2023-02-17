@@ -23,7 +23,7 @@
 
 ### Comfortable Working With:
 
-- 📷 Fujifilm X-E4 + Fujinon XF 35mm F2
+- 📷 Sony A6400 + Sigma 30mm F1.4 + Sigma 18-50mm F2.8
 - ⚛️ ReactJS / NEXT.JS
 - 🔰 GatsbyJS
 - 📉 GraphQL
