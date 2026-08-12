@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [Indie Showcase][dendense]!
 - 🌱 I’m currently learning everything 🤠
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Love Music, Photography & Japanese things
 
 ### Youtube Music Playlist 🎧
