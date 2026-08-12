@@ -23,7 +23,7 @@
 
 ### Comfortable Working With:
 
-- 📷 Sony A6400 + Sigma 30mm F1.4 + Sigma 18-50mm F2.8
+- 📷 Sony A6700 + Zeiss 24mm F1.8
 - ⚛️ ReactJS / NEXT.JS
 - 🔰 GatsbyJS
 - 📉 GraphQL
