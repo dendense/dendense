@@ -5,7 +5,7 @@
 ## I'm a Teenager, Student, and Front-End Developer!
 
 - 🏅 IAF XLVII | PDE XXXVII
-- 🔭 I’m currently working on a [Indie Showcase][dendense]!
+- 🔭 I’m currently working on a [Denslab Gallery][dendense]!
 - 🌱 I’m currently learning everything 🤠
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2026 Goals: Contribute more to Open Source projects
