@@ -1,6 +1,6 @@
 ### Hi there, I'm Deny Farras Febriyanto - aka [DENDENSE][website] 👋
 
-[![Website](https://img.shields.io/website?label=denslab&style=for-the-badge&url=https%3A%2F%2Fdendense.com)](https://denslab.vercel.app/)
+[![Website](https://img.shields.io/website?label=denslab&style=for-the-badge&url=https%3A%2F%2Fdenslab.vercel.app)](https://denslab.vercel.app/)
 
 ## I'm a Cat, Human, and Also IT Engineer!
 
