@@ -21,10 +21,14 @@
 - [Instagram][instagram]
 - [Facebook][facebook]
 
-### Comfortable Working With:
+### Gear:
 
+- 💻 Macbook Air M2
+- 📱 Xiaomi 7
 - 📷 Sony A6700 + Zeiss 24mm F1.8
 - 📷 Pentax Spotmatic II + SMC Takumar 55mm
+
+### Tech Stack:
 - ⚛️ ReactJS / NEXT.JS
 - 🔰 Supabase
 - 📉 Postgres
